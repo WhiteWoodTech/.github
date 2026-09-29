@@ -31,7 +31,8 @@ from €800 per person.
 
 ## Built by White Wood Tech
 
-- [n8n-ninja.app](https://n8n-ninja.app): manage, monitor and trigger your n8n automations from an iPhone.
+- [n8n-ninja.app](https://n8n-ninja.app): monitor, turn on and trigger your n8n workflows from an iPhone, iPad, Mac or
+  Apple TV, with n8n Cloud or self-hosted instances.
 - [houblons-nous.org](https://houblons-nous.org): an association website managed by volunteers through a headless CMS.
 - [white-wood.tech](https://white-wood.tech): this studio's website, built with Astro and Svelte, hosted on Cloudflare.
 
