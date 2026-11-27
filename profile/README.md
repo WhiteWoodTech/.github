@@ -31,6 +31,9 @@ from €800 per person.
 
 ## Built by White Wood Tech
 
+- [HashQuiz](https://github.com/WhiteWoodTech/hashquiz): an open-source, self-hostable live quiz platform (a Kahoot
+  alternative). Quizzes are plain Markdown files, played in real time from phones, and published with the
+  [`hashquiz`](https://www.npmjs.com/package/hashquiz) npm CLI.
 - [n8n-ninja.app](https://n8n-ninja.app): monitor, turn on and trigger your n8n workflows from an iPhone, iPad, Mac or
   Apple TV, with n8n Cloud or self-hosted instances.
 - [houblons-nous.org](https://houblons-nous.org): an association website managed by volunteers through a headless CMS.
